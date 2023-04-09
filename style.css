@@ -117,3 +117,53 @@ p {
 .fa-solid {
     color: #FFC014;
 }
+
+.all-product h4 {
+    margin-left: 1070px;
+    margin-top: 40px;
+    color: rgba(224, 44, 109, 0.87);
+}
+
+/* featured-products section */
+.featured-products {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 95px;
+    margin: 100px 165px;
+}
+
+.gear-image {
+    width: 404px;
+    height: 270px;
+    border-radius: 7px;
+}
+
+.featured-product-details h1 {
+    width: 610px;
+    height: 60px;
+    margin-bottom: 16px;
+    color: #0A0826;
+}
+
+.featured-product-details p {
+    width: 501px;
+    height: 88px;
+    margin-bottom: 16px;
+    color: #6C6C6C;
+}
+
+.featured-product-details button {
+    width: 155px;
+    height: 44px;
+    background: #E02C6D;
+    border-radius: 3px;
+}
+
+.btn-text {
+    width: 75px;
+    height: 24px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+}
