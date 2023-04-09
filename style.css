@@ -167,3 +167,37 @@ p {
     font-size: 16px;
     color: #FFFFFF;
 }
+
+/* footer section */
+.footer {
+    height: 239px;
+    width: 100%;
+    background: #0A0826;
+}
+
+.footer-text {
+    color: #FFFFFF;
+    padding: 50px 450px;
+}
+
+.footer-text p {
+    color: #D9DBE1;
+    margin-top: 10px;
+}
+
+.social-media-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    color: #FFFFFF;
+}
+
+.fa-magnifying-glass,
+.fa-cart-shopping {
+    color: #000000;
+}
+
+.fa-globe {
+    color: #FFFFFF;
+}
